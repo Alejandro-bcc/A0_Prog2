@@ -1,0 +1,14 @@
+TAD - fila jornal
+
+char - titulo[33];
+char - texto[513];
+char - idade;
+struct fila_jornal *p;
+
+atualizar
+criar
+inserir
+remover
+destruir
+
+
