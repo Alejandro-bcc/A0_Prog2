@@ -1,2 +1,2 @@
-#A0
+# A0
 First programming assignment
